@@ -19,3 +19,33 @@
 - Now you have to issue a command named <strong>node index.js</strong> in the terminal.
 
 - As soon as you issue this last command, the codebase of this app will start executing on your terminal.
+
+## How to play with this CLI Quiz App
+
+- This app will ask you total 5 question about me, for each right answer you will awared with one point.
+
+- Hints:
+
+  Question: <strong>Where do I live?</strong>
+
+  Answer: <strong>Barmer</strong>
+
+  Question: <strong>My superhero would be?</strong>
+
+  Answer: <strong>Superman</strong>
+
+  Question: <strong>Where do I work?</strong>
+
+  Answer: <strong>Halliburton</strong>
+
+  Question: <strong>Who is my favorite teacher?</strong>
+
+  Answer: <strong>Tanay Pratap</strong>
+
+  Question: <strong>What is my favorite food?</strong>
+
+  Answer: <strong>Garibaldi</strong>
+
+## I have learned to make this app from Tanay Pratap. Tanay Pratap works as SDE in Microsoft. He runs an online bootcamp in which he teaches Full Stack Web Development to his students in 7 to 8 months.
+
+## If you want to know about bootcamp then go to https://neog.camp/
